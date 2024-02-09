@@ -1,0 +1,3 @@
+=>{setModal(true); setTitle(i);})())
+
+                

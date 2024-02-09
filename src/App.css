@@ -1,0 +1,30 @@
+.black-nav {
+  color : white;
+  background-color: black;
+
+  display: flex;
+
+  padding-left : 20px;
+}
+
+.list {
+
+  padding-left: 20px;
+  text-align: left;
+
+  border-bottom-style : solid;
+  border-bottom-width : 1px;
+  border-bottom-color : gray;
+}
+
+.icon {
+  display : inline-block;
+  cursor: pointer;
+}
+
+.modal{
+  margin-top : 20px;
+  padding : 20px;
+  background : #eee;
+  text-align : left;
+}
